@@ -1,0 +1,14 @@
+migrations
+
+__pycache__
+
+*.class
+
+*.py[cod]
+
+*.log
+
+*.jar
+
+env/
+.env
